@@ -1,0 +1,122 @@
+body{
+    position: relative;
+    background-color: aliceblue;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}    
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+.modeButton {
+    float: right;
+    padding: 0.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 1%;
+    margin-top: 1%;
+    background-color:white;
+    border-radius: 20%;
+    letter-spacing: 2px;
+    
+}
+#h2{
+    float: left;
+    margin-left: 20%;
+    text-shadow: 0.1%;
+
+
+}
+
+#h22{
+    float: left;
+    margin-left: 20%;
+    text-shadow: 0.1%;
+}
+
+#message-el {
+    text-align: center;
+}
+#startgamebutton{
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 1%;
+    margin-top: 1%;
+    background-color:white;
+    border-radius: 20%;
+    letter-spacing: 2px;
+    font-size: x-large;
+    margin-left: 40%;
+    cursor: pointer;
+   
+  
+
+
+}   
+#newcard {
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+    background-color:white;
+    border-radius: 20%;
+    letter-spacing: 2px;
+    font-size: x-large;
+    margin-right: 20px;
+    cursor: pointer;
+    float: left;
+    margin:2px;
+    margin-left: 25%;
+
+
+
+}
+#standCard {
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+    background-color:white;
+    border-radius: 20%;
+    letter-spacing: 2px;
+    font-size: x-large;
+    cursor: pointer;
+    float:left;
+    margin:2px;
+    margin-left: 5%;
+
+
+
+}
+#splitCard {
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+    background-color:white;
+    border-radius: 20%;
+    letter-spacing: 2px;
+    font-size: x-large;
+    cursor: pointer;
+    float:left;
+    margin:2px;
+    margin-left: 5%;
+}
+
+#AnotherGame {
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+    background-color:white;
+    border-radius: 20%;
+    letter-spacing: 2px;
+    font-size: x-large;
+    cursor: pointer;
+    float:left;
+    margin:2px;
+    margin-left: 5%;
+}
+#money{
+    text-align: center;
+    text-shadow: 0.1%;
+    margin-right: 10%;
+}
